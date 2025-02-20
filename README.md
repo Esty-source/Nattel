@@ -1,2 +1,0 @@
-# Nattel
-A photography website
